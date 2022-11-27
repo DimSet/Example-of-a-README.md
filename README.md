@@ -1,2 +1,3 @@
 # Example-of-a-README.md
-*created by *Settas Dimitris*
+*created by 
+*Settas Dimitris*
